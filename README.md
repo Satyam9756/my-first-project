@@ -1,12 +1,3 @@
-# My First Project
-
-This project was created using Google Colab.
-
-## Files
-- my_project.ipynb – Main notebook file
-
-## Author
-Satyam
 
 # My First Project
 
@@ -37,4 +28,9 @@ The notebook contains:
 ---
 
 ## 📂 Project Structure
+my-first-project/
+│
+├── my_project.ipynb   # Main Google Colab notebook containing all code
+├── README.md          # Detailed documentation of the project
+
 
